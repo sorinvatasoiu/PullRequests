@@ -12,3 +12,5 @@ D:                    206G  179G   27G  87% /d
 >cd /d (to mode to the drive d:)
 
 >ls (display the folders)
+
+new line
