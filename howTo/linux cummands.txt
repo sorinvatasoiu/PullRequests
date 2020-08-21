@@ -1,0 +1,14 @@
+>pwd  ( working directory)
+
+>cd dev/ (the drives are in the dev folder)
+
+>ls sda*  (list all the devices)
+
+>df -h  (list the drives and where they are mounted)
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  293G  256G   38G  88% /
+D:                    206G  179G   27G  87% /d
+
+>cd /d (to mode to the drive d:)
+
+>ls (display the folders)
