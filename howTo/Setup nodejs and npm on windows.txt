@@ -5,5 +5,5 @@ Setup nodejs and npm on windows
 3. verify the instalation path in environment variables
 4. if it is "C:\Program Files\nodejs\" remove last "\", must be "C:\Program Files\nodejs"
 5. from a random directory run "node -v" and "npm -v", it should respond with the current version
-6. if error run admin command "SET PATH=C:\Program Files\Nodejs;%PATH%" and verify again node and npm versions.
+6. if you get an error, run admin command "SET PATH=C:\Program Files\Nodejs;%PATH%" and verify again node and npm versions.
 
